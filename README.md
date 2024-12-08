@@ -1,0 +1,2 @@
+- helps to measure distance with HC_SRO4_sensor and allows user to use it as a proximty sensor.
+- uses SMA (simple moving average) filter to smoothen the noise of the data.  
